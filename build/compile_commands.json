@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/seto2103/GITHUB/Shell/build",
+  "command": "/usr/bin/clang  -I/Users/seto2103/GITHUB/Shell/src -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/my_shell.dir/main.c.o -c /Users/seto2103/GITHUB/Shell/main.c",
+  "file": "/Users/seto2103/GITHUB/Shell/main.c",
+  "output": "CMakeFiles/my_shell.dir/main.c.o"
+},
+{
+  "directory": "/Users/seto2103/GITHUB/Shell/build",
+  "command": "/usr/bin/clang  -I/Users/seto2103/GITHUB/Shell/src -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/my_shell.dir/src/readline.c.o -c /Users/seto2103/GITHUB/Shell/src/readline.c",
+  "file": "/Users/seto2103/GITHUB/Shell/src/readline.c",
+  "output": "CMakeFiles/my_shell.dir/src/readline.c.o"
+},
+{
+  "directory": "/Users/seto2103/GITHUB/Shell/build",
+  "command": "/usr/bin/clang  -I/Users/seto2103/GITHUB/Shell/src -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/my_shell.dir/src/splitline.c.o -c /Users/seto2103/GITHUB/Shell/src/splitline.c",
+  "file": "/Users/seto2103/GITHUB/Shell/src/splitline.c",
+  "output": "CMakeFiles/my_shell.dir/src/splitline.c.o"
+},
+{
+  "directory": "/Users/seto2103/GITHUB/Shell/build",
+  "command": "/usr/bin/clang  -I/Users/seto2103/GITHUB/Shell/src -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/my_shell.dir/src/executeline.c.o -c /Users/seto2103/GITHUB/Shell/src/executeline.c",
+  "file": "/Users/seto2103/GITHUB/Shell/src/executeline.c",
+  "output": "CMakeFiles/my_shell.dir/src/executeline.c.o"
+},
+{
+  "directory": "/Users/seto2103/GITHUB/Shell/build",
+  "command": "/usr/bin/clang  -I/Users/seto2103/GITHUB/Shell/src -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/my_shell.dir/src/builtin.c.o -c /Users/seto2103/GITHUB/Shell/src/builtin.c",
+  "file": "/Users/seto2103/GITHUB/Shell/src/builtin.c",
+  "output": "CMakeFiles/my_shell.dir/src/builtin.c.o"
+},
+{
+  "directory": "/Users/seto2103/GITHUB/Shell/build",
+  "command": "/usr/bin/clang  -I/Users/seto2103/GITHUB/Shell/src -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/my_shell.dir/src/launchline.c.o -c /Users/seto2103/GITHUB/Shell/src/launchline.c",
+  "file": "/Users/seto2103/GITHUB/Shell/src/launchline.c",
+  "output": "CMakeFiles/my_shell.dir/src/launchline.c.o"
+},
+{
+  "directory": "/Users/seto2103/GITHUB/Shell/build",
+  "command": "/usr/bin/clang  -I/Users/seto2103/GITHUB/Shell/src -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/my_shell.dir/src/helpers.c.o -c /Users/seto2103/GITHUB/Shell/src/helpers.c",
+  "file": "/Users/seto2103/GITHUB/Shell/src/helpers.c",
+  "output": "CMakeFiles/my_shell.dir/src/helpers.c.o"
+}
+]
